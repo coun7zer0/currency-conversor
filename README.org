@@ -1,0 +1,11 @@
+* Calculadora de conversión de divisas
+Programa encargado de convertir cantidades entre diferentes tipos de
+divisas
+
+** La calculadora acepta las siguientes divisas
+- Pesos Mexicano
+- Dólar Estadounidense
+- Euro
+- Libras Esterlinas
+- Yen Japonés
+- Won Sul-Coreano
