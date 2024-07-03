@@ -9,3 +9,6 @@ divisas
 - Libras Esterlinas
 - Yen Japonés
 - Won Sul-Coreano
+
+** Paquetes externos usados
+- Maven Assembly
