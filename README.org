@@ -12,3 +12,4 @@ divisas
 
 ** Paquetes externos usados
 - Maven Assembly
+- Gson
